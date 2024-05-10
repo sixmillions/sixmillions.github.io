@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://blog.sixmillions.cn/vuepress2-blog/sitemap.xml
